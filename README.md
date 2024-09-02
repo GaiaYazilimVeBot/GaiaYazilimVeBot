@@ -1,0 +1,3 @@
+- Gaia Yazılım ve Bot
+- Discord sunucusu: https://discord.gg/tATTVRU4n8
+- Minecraft ve Discord botları.
